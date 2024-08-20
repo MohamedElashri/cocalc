@@ -1,4 +1,4 @@
-FROM sagemathinc/cocalc-v2:latest
+FROM sagemathinc/cocalc-docker:latest
 MAINTAINER Mohamed Elashri (me@elashri.com)
 
 
